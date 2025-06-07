@@ -476,4 +476,4 @@ Generate a detailed inventory of all software components and dependencies used i
 
 ## 8. Contact
 
-For help or improvements, contact the DevSecOps team or pipeline maintainers.
+For help or improvements, contact @me please = soroush.man.hd@gmail.com .
